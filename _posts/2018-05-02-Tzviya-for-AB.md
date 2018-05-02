@@ -2,7 +2,6 @@
 layout: post
 title:  "Tzviya for AB"
 date:   2018-05-02
-categories: W3C Standards
 ---
 
 Finding the W3C was like finding a new friend. The work was meaningful and interesting The people were smart, kind, and idealistic. The W3C had a remarkable spirit, a strong culture, a storied history, and an important mission. But today the W3C is facing many challenges—financial, organizational, political. We need more voices, and a broader range of voices, to bring the web to its full potential. I think I can help.
