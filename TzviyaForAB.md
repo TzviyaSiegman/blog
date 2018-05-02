@@ -1,5 +1,4 @@
-AB Statement  - Tzviya Siegman
-
+# Tzviya for AB
 
 Finding the W3C was like finding a new friend. The work was meaningful and interesting The people were smart, kind, and idealistic. The W3C had a remarkable spirit, a strong culture, a storied history, and an important mission. But today the W3C is facing many challenges—financial, organizational, political. We need more voices, and a broader range of voices, to bring the web to its full potential. I think I can help.
 
@@ -18,8 +17,12 @@ We might consider coordinating with organizations like the Apache Software Found
 I would like to help the W3C refocus on a web for all. I have heard it said that standards are written by the people that show up. We need to make it easier to show up. Now it seems that it’s for technical employees of the largest companies to show up. One company, for example, has twenty-two people in the CSS working group. But it's much harder for many others. Membership fees, travel expenses, demanding day jobs, and personal commitments prevent many people from even large corporations from participating. So many voices are missing—entire industries, entire continents, entire cultures, entire classes. We need these voices to make the web better, to make the web work for everyone. I will do my best to focus on bringing a greater and more vibrant diversity to the W3C. I will work on exploring funding options to aid in that effort. 
 
 In summary, as an AB member I plan to:
-Explore membership dues and funding models of the W3C. This is likely to lead to an exploration of the current structure of the W3C. There are many creative ways that we could bring in money that have not been explored.
-Focus on diversity in membership. Diversity can mean a mix of companies, genders, nationalities, ages, races. It is not easy work, and we have to make sure that we are not simply paying it lip service. 
-Work on care and feeding of new and existing members, especially those who seem hesitant to participate. Not everyone with a valuable opinion is comfortable speaking in a room or virtual room full of experts. We still need to hear their thoughts. This is often especially true for people for whom English is not their first language and for whom standards work is new. 
+* Explore membership dues and funding models of the W3C. This is likely to lead to an exploration of the current structure of the W3C. There are many creative ways that we could bring in money that have not been explored.
+* Focus on diversity in membership. Diversity can mean a mix of companies, genders, nationalities, ages, races. It is not easy work, and we have to make sure that we are not simply paying it lip service. 
+* Work on care and feeding of new and existing members, especially those who seem hesitant to participate. Not everyone with a valuable opinion is comfortable speaking in a room or virtual room full of experts. We still need to hear their thoughts. This is often especially true for people for whom English is not their first language and for whom standards work is new. 
 
 I look forward to representing you on the AB. Please don’t hesitate to contact me at tsiegman at wiley dot com.
+
+Thanks to Laura Brady, Dave Cramer, and Benjamin Young for their editorial wisdom. Thanks to Zheng Xu for translating to Chinese.
+
+
