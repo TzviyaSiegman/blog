@@ -17,9 +17,9 @@ title: Tzviya Siegman
 email: tsiegman@wiley.com
 description: >- # this means to ignore newlines until "baseurl:"
   I've started a blog to share some thoughts about my work on standards, publishing, and the work I do on both.
-baseurl: "https://github.com/TzviyaSiegman/blog" # the subpath of your site, e.g. /blog
-url: "http://tzviyasiegman.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @TzviyaSiegman
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://tzviyasiegman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: TzviyaSiegman
 github_username:  TzviyaSiegman
 
 # Build settings
