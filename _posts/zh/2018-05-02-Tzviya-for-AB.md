@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tzviya for AB"
+title:  "Tzviya for AB (Chinese)"
 date:   2018-05-02
 categories: zh
 ---
