@@ -2,6 +2,7 @@
 layout: post
 title:  "Tzviya for AB"
 date:   2018-05-02
+categories: zh
 ---
 
 参与万维网联盟（W3C）就像结识了新朋友一样富有意义也很有意思。这里的人都非常聪明，和善而且很有理想。
