@@ -1,5 +1,5 @@
 # What are we doing here
-I've created a space on GitHub to share some thoughts.
+I've created a space on GitHub to share some thoughts. Read what I have to say at [https://tzviyasiegman.github.io/blog/](https://tzviyasiegman.github.io/blog/). 
 
 ## License
 
