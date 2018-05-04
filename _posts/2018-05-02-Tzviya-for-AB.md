@@ -27,7 +27,7 @@ In summary, as an AB member I plan to:
 
 I look forward to representing you on the AB. Please don’t hesitate to contact me at tsiegman at wiley dot com.
 
-Thanks to Laura Brady, Dave Cramer, and Benjamin Young for their editorial wisdom. Thanks to Zheng Xu for translating to Chinese (coming soon). 
+Thanks to Laura Brady, Dave Cramer, and Benjamin Young for their editorial wisdom. Thanks to Zheng Xu for translating to [Chinese](https://tzviyasiegman.github.io/blog/zh/2018/05/02/Tzviya-for-AB).  
 
 If you would like to offer to translate this into a language that you know well, please contact me, and I will open the repository to you.
 
