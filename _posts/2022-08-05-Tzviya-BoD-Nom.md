@@ -5,12 +5,12 @@ date:   2018-08-05
 ---
 
 # Nomination Statement for Tzviya Siegman (she/her)
-* [English](#English)
-* [Chinese](#Chinese)
-* [Japanese](#Japanese)
-* [Korean](#Korean)
-* [French](#French)
-* [Spanish](#Spanish)
+ [English](#English)
+ [Chinese](#Chinese)
+ [Japanese](#Japanese)
+ [Korean](#Korean)
+ [French](#French)
+ [Spanish](#Spanish)
 
 ## English
 
