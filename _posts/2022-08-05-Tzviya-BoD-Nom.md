@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Tzviya Siegman (she/her) Nomination Statement"
+title:  "Tzviya Siegman Nomination Statement"
 date:   2018-08-05
 ---
 
-# Nomination Statement
+# Nomination Statement for Tzviya Siegman (she/her)
 [English](#English)
 [Chinese](#Chinese)
 [Japanese](#Japanese)
