@@ -4,7 +4,7 @@ title:  "Tzviya Siegman (she/her) Nomination Statement"
 date:   2018-08-05
 ---
 
-# Tzviya Siegman (she/her) Nomination Statement
+# Nomination Statement
 [English](#English)
 [Chinese](#Chinese)
 [Japanese](#Japanese)
